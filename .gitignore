@@ -1,0 +1,6 @@
+.fuse_hidden*
+/.vscode
+/.empty
+/src/__pycache__
+/src/runs
+/src/output
